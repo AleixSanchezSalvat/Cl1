@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Bonjour {{civ}} {{1name2}},</p>
+
+<p>Permettez-moi de me présenter : je m'appelle Aleix et je vous écris au nom de l'Initiative Antonio Gonzalez. Considérant l'importance d'optimiser notre temps, je serai direct : votre organisation est à la recherche de personnel et nous offrons une large gamme de professionnels hautement qualifiés dans le secteur de la Vente et du Commerce, disponibles à un coût significativement réduit pour vous.</p>
+
+<p>Pour ne pas trop vous prendre de temps, je vous décris brièvement les étapes à suivre si vous êtes intéressés par notre proposition, ou si vous souhaitez simplement plus d'informations :</p>
+
+<ol>
+  <li>Répondez à ce courriel si notre proposition vous intéresse, afin d'organiser une brève réunion à votre lieu de travail.</li>
+  <li>Complétez un bref questionnaire pour préciser les profils qui répondent le mieux à vos besoins et examinez les candidats que nous proposons.</li>
+  <li>Une fois la paperasse terminée, en seulement un mois, vous disposerez d'un nouvel employé motivé et prêt à relever tous les défis.</li>
+</ol>
+
+<p>Je vous informe que ce service représente uniquement 5 % du salaire annuel du candidat sélectionné. Par exemple, l'embauche d'une vendeuse qualifiée et expérimentée avec un salaire brut de CHF 4.200 à 80 % (CHF 3.360 mensuels), ne vous coûterait que CHF 2.184 à travers notre gestion.</p>
+
+<p>Si vous souhaitez consulter notre site web pour obtenir des informations complémentaires, <a href="{{link3}}">cliquez ici</a>.</p>
+
+<p>Si vous souhaitez optimiser les coûts sans compromettre la qualité, je vous invite à répondre à ce courriel pour coordonner notre réunion.</p>
+
+<p>Cordialement,</p>
+
+<p><strong>Aleix Sanchez I Salvat</strong><br>
+<strong>Managing Director</strong><br>
+<strong>Antonio Gonzalez Inc.</strong><br>
+<strong>aleix-sanchez@agonzalezinc.com</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:30%;"></p>
+
+<p style="color: grey; font-size: x-small;">
+This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+</p>
+
+<p style="color: grey; font-size: x-small;">
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+</p>
+
+<p style="color: grey; font-size: x-small;">
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. Antonio Gonzalez Inc. expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+</p>
+
+<p style="color: grey; font-size: x-small;">
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.
+</p>
+</body>
+</html>
