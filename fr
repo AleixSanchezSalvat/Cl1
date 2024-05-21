@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courriel de Présentation</title>
+</head>
+<body>
+    <p>Chère équipe de <strong>{{name}}</strong>,</p>
+
+    <p>J'ai le plaisir de vous présenter <strong>{{name2}}</strong>, la nouvelle solution en Suisse pour le recrutement de personnel dans le secteur <strong>{{sector}}</strong>. Nous révolutionnons le marché avec une offre unique en termes de qualité et de prix.</p>
+
+    <p><strong>Ce qui nous distingue :</strong></p>
+    <ul>
+        <li><strong>Coûts significativement réduits</strong> : Nous ne facturons que 5% du salaire annuel du candidat, contre 15-20% habituellement pratiqués sur le marché.</li>
+        <li><strong>Garantie de satisfaction</strong> : En tant qu'offre de lancement, si un candidat ne vous satisfait pas, vous pouvez le remplacer sans frais supplémentaires pendant les 3 premiers mois.</li>
+        <li><strong>Confiance de la communauté</strong> : Des entreprises de votre localité explorent déjà nos services avec d'excellents résultats.</li>
+    </ul>
+
+    <p><strong>Données du marché :</strong></p>
+    <ul>
+        <li><strong>Chômage en Suisse</strong> : Actuellement à 2,3%, avec une pénurie croissante de main-d'œuvre qualifiée dans le secteur commercial et des ventes.</li>
+    </ul>
+
+    <p>Nous disposons actuellement d'un large vivier de talents, rempli de candidats hautement qualifiés et prêts à être placés dans votre entreprise. Cependant, ces candidats sont placés rapidement en raison de la forte demande. Ne manquez pas l'opportunité de sécuriser les talents dont votre entreprise a besoin.</p>
+
+    <p>Nous serions ravis de vous montrer comment nous pouvons optimiser votre processus de recrutement et réduire vos coûts de manière significative.</p>
+
+    <p><strong>Répondez simplement à ce courriel</strong> pour planifier une réunion ou obtenir plus d'informations. Vous pouvez également visiter notre site web pour explorer nos services plus en détail : <a href="{{link3}}">Page web</a>.</p>
+
+    <p>Nous offrons des consultations et la possibilité de planifier des réunions gratuites pour discuter de vos besoins en recrutement.</p>
+
+    <p>Cordialement,</p>
+
+<p><strong>Sales Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
